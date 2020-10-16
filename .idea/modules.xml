@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ahmazeiing.iml" filepath="$PROJECT_DIR$/.idea/Ahmazeiing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MacGyver/.idea/MacGyver.iml" filepath="$PROJECT_DIR$/../MacGyver/.idea/MacGyver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Maze_pythonspot/.idea/OpenMaze.iml" filepath="$PROJECT_DIR$/../Maze_pythonspot/.idea/OpenMaze.iml" />
+    </modules>
+  </component>
+</project>
